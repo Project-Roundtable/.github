@@ -1,5 +1,5 @@
 # Project Roundtable
-Putting the bits in the right order, one line of code at the time.
+Putting the bits in the right order, one line of code at a time.
 
 ## What is Project Roundtable?
 Project Roundtable is a programming group created by myself Luke Skinner @LJSkinner and Andrew McGuckin @AndrewMcGuckin. We created this group in our last year of University as a way continuining to better ourselves, have fun and most importantly keep programming. However, that doesn't mean that everything we do has no purpose. We try our best to work on projects that will have an audience and benefit people in some way. We recently started our first public project which aims to deliver a website to help fellow University of Stirling Graduates calculate their degree classification. We generally keep our repositories public and with permissive licenses such as MIT, so that we can help give back in open source. 
